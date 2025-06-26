@@ -3,7 +3,7 @@
 Bu proje, araçların otoparkta takibini yapmayı sağlayan bir *Otopark Yönetim Sistemi* uygulamasıdır. Araç türlerini, sahip bilgilerini ve otopark durumunu yönetmek için GUI (Swing) ve CRUD işlemleri ile veritabanı entegrasyonu içerir.
 
 ## Proje Ekibi
-Bu proje, Merve MIZRAKLI ve [Reyya TACEMEN](https://github.com/5210505034) ile birlikte geliştirilmiştir.
+Bu proje, Merve MIZRAKLI tarafından geliştirilmiştir.
 
 ## Özellikler
 
